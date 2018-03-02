@@ -33,7 +33,17 @@ end up_down_counter;
 
 architecture up_down_counter of counter 1 is
 begin
-
+    if rising_edge(CLR) then
+        if RESET = '1' then
+            counter <= (others ->'0');
+        elsif UP_IN = '1' and DOWN_IN = '0' then
+            counter <= counter +1;
+        elsif UP_IN = '1' and DOWN_IN = '1' then
+            counter <= counter -1;
+        else
+            counter <= counter;
+        end
+    end
 
 end up_down_counter;
 

@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2017.4 (64-bit)
+# SW Build 2086221 on Fri Dec 15 20:55:39 MST 2017
+# IP Build 2085800 on Fri Dec 15 22:25:07 MST 2017
+# Start of session at: Fri Mar  9 12:12:27 2018
+# Process ID: 7192
+# Current directory: C:/Users/student/Desktop/02zaj09032018/izydor/cwiczenie2/project_1.runs/synth_1
+# Command line: vivado.exe -log cw2.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source cw2.tcl
+# Log file: C:/Users/student/Desktop/02zaj09032018/izydor/cwiczenie2/project_1.runs/synth_1/cw2.vds
+# Journal file: C:/Users/student/Desktop/02zaj09032018/izydor/cwiczenie2/project_1.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source cw2.tcl -notrace

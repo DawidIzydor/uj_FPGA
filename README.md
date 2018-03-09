@@ -24,3 +24,7 @@ use UNISIM.VComponents.all;
 ## 1 - Clock counter
 
 Clock counter on 4 LED. Using 3 of 4 buttons, clock ticks on LEDs
+
+## 2 - Keyboard and display
+
+8 bits display + 16 btns key

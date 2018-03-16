@@ -1,5 +1,5 @@
 # FPGA
-Repo for FPGA materials
+Repo for FPGA materials (xc7z010clg400c-1)
 
 ## Libraries
 
